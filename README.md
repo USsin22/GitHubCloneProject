@@ -1,1 +1,2 @@
-This is my cloned repository 
+"# Git Branching Exercise" 
+"Objective: Practice branching, merging, and resolving conflicts." 
